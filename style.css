@@ -1,0 +1,17 @@
+img {
+	max-height: 500px;
+max-width: 400px;
+width: 450px;
+height: 350px;
+}
+h1 { 
+	font-size: 40px;
+	color: grey;
+}
+.banner {
+ text-align: center; 
+ color: red;
+ }
+h2 {
+ 	color: red;
+ }
